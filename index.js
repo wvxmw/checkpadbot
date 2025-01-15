@@ -23,7 +23,7 @@ const padWallet = {
       showFrom: false,
    },
    out: {
-      id: "d07a76b82cf2fbbe0a6b865a12918ad03fc8a748a991a5e66e44a27a07285ec1",
+      id: "",
       timeStamp: "",
       infoText: "прокладки",
       subFile: "padoutsubscribers.json",
